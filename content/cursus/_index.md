@@ -7,7 +7,7 @@ banner:
   title: Nos <balise id="initial"><span class="font-weight-medium">Formations</span></balise>
   title-line-twho: ''
   subtitle: Un enseignement professionnalisant et varié pour un avenir 100% numérique.
-  image: uploads/cursus-initial.jpg
+  image: uploads/cursus-initial-optim.jpg
 about:
   enable: true
   title: L'enseignement à la NWS
